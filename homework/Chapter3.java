@@ -25,7 +25,7 @@ public class Chapter3 {
         System.out.print("  " + a);
 
         char ch1, ch2;
-        ch1 = 88;
+        ch1 = 89;
         ch2 = 'Y';
         System.out.print(" ch1  ch2: ");
         System.out.print(ch1 + "  " + ch2);
