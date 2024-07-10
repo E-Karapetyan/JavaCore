@@ -15,22 +15,21 @@ public class Chapter2 {
         x = 10;
         y = 20;
         if (x < y)
-            System.out.println("x<y");
+            System.out.println("x < y");
         x = x * 2;
         if (x == y)
-            System.out.println("x==y");
+            System.out.println("x == y");
         x = x * 2;
         if (x > y)
-            System.out.println("x>y");
+            System.out.println("x > y");
         if (x == y)
             System.out.println();
 
+        System.out.println("------------------");
 
         int i;
         for (i = 0; i < 10; i = i + 1)
             System.out.println("i: " + i);
-
-        /* class BlockTest */
         int a, b;
         b = 20;
         for (a = 0; a < 10; a++) {
